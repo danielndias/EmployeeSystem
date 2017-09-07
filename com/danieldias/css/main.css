@@ -1,0 +1,24 @@
+.header {
+    -fx-background-color: darkgray;
+}
+
+.txt {
+    -fx-padding: 5px;
+    -fx-border-radius: 15px;
+}
+
+Button {
+
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-text-fill: black;
+}
+
+Button:hover {
+    -fx-background-color: white;
+}
+
+.leftPanel {
+    -fx-background-color: royalblue;
+    -fx-text-fill: white;
+}
